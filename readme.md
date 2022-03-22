@@ -1,6 +1,8 @@
 A simple node &amp; express app running within Docker
 
-### Building
+[![Docker Image CI](https://github.com/serdar/ltest/actions/workflows/docker-image.yml/badge.svg)](https://github.com/serdar/ltest/actions/workflows/docker-image.yml)
+
+### Building Dockerfile
 `docker build . -t ntest:latest`
 
 ### Running
